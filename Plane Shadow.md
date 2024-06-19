@@ -1,10 +1,3 @@
----
-layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
----
-
 # Airplane Shadow
 
 ![GIF-2023-02-26-16-34-56](C:\Users\Yaron\Documents\Plane Shadow docs\GIF-2023-02-26-16-34-56.gif)
